@@ -1,0 +1,2 @@
+# Python-botting-butorial-part-2
+Hello there! This is the github repository where you can find the complete code for the part two of the botting tutorial. This repository will be released before the actual video, so just stay tuned on https://www.youtube.com/user/GamingKian for video release. You can also contact me on discord, just go to the about page on my youtube channel and get the link there.
