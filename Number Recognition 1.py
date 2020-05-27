@@ -16,7 +16,7 @@ output = pytesseract.image_to_string(img)
 #We can now print out the output
 print(output)
 
-#output = coords.split(',')
+#output = output.split(',')
 #print(output[0])
 #print(output[1])
 #print(output)
